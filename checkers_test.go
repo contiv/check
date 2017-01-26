@@ -2,7 +2,7 @@ package check_test
 
 import (
 	"errors"
-	"unclejack/check"
+	"contiv/check"
 	"reflect"
 	"runtime"
 )

@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	. "unclejack/check"
+	. "contiv/check"
 )
 
 var runnerS = Suite(&RunS{})

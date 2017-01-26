@@ -4,7 +4,7 @@ package check_test
 
 import (
 	"time"
-	. "unclejack/check"
+	. "contiv/check"
 )
 
 var benchmarkS = Suite(&BenchmarkS{})

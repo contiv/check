@@ -14,7 +14,7 @@ package check_test
 
 import (
 	"fmt"
-	"unclejack/check"
+	"contiv/check"
 	"strings"
 )
 

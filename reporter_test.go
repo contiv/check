@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"runtime"
 
-	. "unclejack/check"
+	. "contiv/check"
 )
 
 var _ = Suite(&reporterS{})

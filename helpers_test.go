@@ -4,7 +4,7 @@
 package check_test
 
 import (
-	"unclejack/check"
+	"contiv/check"
 	"os"
 	"reflect"
 	"runtime"

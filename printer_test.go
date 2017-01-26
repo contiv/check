@@ -1,7 +1,7 @@
 package check_test
 
 import (
-    .   "unclejack/check"
+    .   "contiv/check"
 )
 
 var _ = Suite(&PrinterS{})

@@ -3,7 +3,7 @@
 package check_test
 
 import (
-	. "unclejack/check"
+	. "contiv/check"
 )
 
 // -----------------------------------------------------------------------

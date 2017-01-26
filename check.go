@@ -334,7 +334,7 @@ func (c *C) logPanic(skip int, value interface{}) {
 			}
 			name := niceFuncName(pc)
 			path := nicePath(file)
-			if strings.Contains(path, "/unclejack/check") {
+			if strings.Contains(path, "/contiv/check") {
 				continue
 			}
 			if name == "Value.call" && strings.HasSuffix(path, valueGo) {

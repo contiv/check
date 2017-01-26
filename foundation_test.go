@@ -8,7 +8,7 @@ package check_test
 
 import (
 	"fmt"
-	"unclejack/check"
+	"contiv/check"
 	"log"
 	"os"
 	"regexp"
