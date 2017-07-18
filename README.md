@@ -3,18 +3,14 @@ Instructions
 
 Install the package with:
 
-    go get unclejack/check
+    go get contiv/check
     
 Import it with:
 
-    import "unclejack/check"
+    import "contiv/check"
 
 and use _check_ as the package name inside the code.
 
 For more details, visit the project page:
 
 * http://labix.org/gocheck
-
-and the API documentation:
-
-* https://unclejack/check
